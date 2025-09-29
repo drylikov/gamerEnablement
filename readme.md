@@ -6,4 +6,4 @@ Usage
 Install the package using DISM from Windows PE.
 License
 =======
-(c) 2021 Gamers Against Weed. All Rights Reserved.
+(c) 2025 Gamers Against Weed. All Rights Reserved.
