@@ -7,8 +7,10 @@ This repository contains CBS packages which disable unnecessary Windows compomen
 
 Usage
 
-==========================================================================================================
+===========================================================================================================
+
 Install the package using DISM from Windows PE.
+
 License
 =======
 (c) 2025 Gamers Against Weed. All Rights Reserved.
